@@ -1,0 +1,20 @@
+{
+  "degrees": [
+    {
+      "degree": {
+        "School": "University of North Carolina",
+        "Program": "Public Health and Sociology",
+        "Type": "BA",
+        "Year": "2011"
+      }
+    },
+    {
+      "degree": {
+        "School": "Boston University",
+        "Program": "Software Development",
+        "Type": "MS",
+        "Year": "2021"
+      }
+    }
+  ]
+}
